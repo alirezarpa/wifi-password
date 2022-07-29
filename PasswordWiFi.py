@@ -1,4 +1,6 @@
-#Instagram : @Pitech.exe
+# By Alireza Rahimipour Anaraki
+# https://zil.ink/ARRahimipour
+
 import subprocess
 data = subprocess.check_output(
     ['netsh','wlan','show','profiles']).decode('utf-8').split('\n')

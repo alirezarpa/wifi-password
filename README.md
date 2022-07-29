@@ -1,2 +1,2 @@
-# wifi-password
-Show all WIFI Password
+# wifi password
+It shows all passwords stored in your system.

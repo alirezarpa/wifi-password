@@ -1,2 +1,2 @@
 # wifi password
-It shows all passwords stored in your system.
+This program shows all passwords stored in your system.
